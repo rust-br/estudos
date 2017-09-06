@@ -11,3 +11,7 @@ Local destinado para estudos sobre assuntos relacionados a Rust
 - [0001 - (29/08/2017) Exercism parte 1](https://www.youtube.com/watch?v=UZsHrbY509k)
   
   Resolvemos alguns exercicios usando Rust, no site [exercism](http://www.exercism.io)
+
+- [0002 - (05/09/2017) Exercism parte 2](https://www.youtube.com/watch?v=wKUCG_XffX0)
+  
+  Resolvemos alguns exercicios usando Rust, no site [exercism](http://www.exercism.io).
