@@ -15,3 +15,7 @@ Local destinado para estudos sobre assuntos relacionados a Rust
 - [0002 - (05/09/2017) Exercism parte 2](https://www.youtube.com/watch?v=wKUCG_XffX0)
   
   Resolvemos alguns exercicios usando Rust, no site [exercism](http://www.exercism.io).
+
+- [0003 - (12/09/2017) Funcional e Pattern Matching](https://www.youtube.com/watch?v=8flK7h5kGBA)
+  
+  Falamos sobre Funcional,Pattern Matching e Enums. [links](https://github.com/rust-br/estudos/issues/4)
