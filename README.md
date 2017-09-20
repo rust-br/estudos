@@ -19,3 +19,7 @@ Local destinado para estudos sobre assuntos relacionados a Rust
 - [0003 - (12/09/2017) Funcional e Pattern Matching](https://www.youtube.com/watch?v=8flK7h5kGBA)
   
   Falamos sobre Funcional,Pattern Matching e Enums. [links](https://github.com/rust-br/estudos/issues/4)
+
+- [0004 - (19/09/2017) Rust OOP, Funciona?](https://www.youtube.com/watch?v=ADHoLYtUYXg)
+  
+  Falamos sobre formas de "simular" orientação a objetos com Rust. [links](https://github.com/rust-br/estudos/issues/5)
