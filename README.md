@@ -23,3 +23,7 @@ Local destinado para estudos sobre assuntos relacionados a Rust
 - [0004 - (19/09/2017) Rust OOP, Funciona?](https://www.youtube.com/watch?v=ADHoLYtUYXg)
   
   Falamos sobre formas de "simular" orientação a objetos com Rust. [links](https://github.com/rust-br/estudos/issues/5)
+
+- [0005 - (26/09/2017)  Exercism parte 3](https://www.youtube.com/watch?v=DqNCG0h6eyE)
+
+  Exercicio treinado: http://exercism.io/exercises/rust/nth-prime/readme
