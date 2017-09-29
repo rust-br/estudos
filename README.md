@@ -1,3 +1,5 @@
+Os encontros são organizados principalmente no [grupo do Telegram](https://t.me/rustlangbr), entre nele para saber o que está rolando na comunidade Rust BR!
+
 # Estudos
 Local destinado para estudos sobre assuntos relacionados a Rust
 
