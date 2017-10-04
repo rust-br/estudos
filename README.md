@@ -29,3 +29,8 @@ Local destinado para estudos sobre assuntos relacionados a Rust
 - [0005 - (26/09/2017)  Exercism parte 3](https://www.youtube.com/watch?v=DqNCG0h6eyE)
 
   Exercicio treinado: http://exercism.io/exercises/rust/nth-prime/readme
+
+- [0006 - (03/10/2017) Rust e Blockchain](https://www.youtube.com/watch?v=ovGX1HbT2VY)
+
+  Falamos de como implementar um simples Blockchain
+  [Código](https://github.com/marioidival/blockchain-example)
