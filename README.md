@@ -34,3 +34,7 @@ Local destinado para estudos sobre assuntos relacionados a Rust
 
   Falamos de como implementar um simples Blockchain
   [Código](https://github.com/marioidival/blockchain-example)
+
+- [0007 - (17/10/2017) Macros](https://www.youtube.com/watch?v=fUDebrslQTE)
+
+  Falamos de Macros no Rust, [referencias](https://github.com/rust-br/estudos/issues/13)
